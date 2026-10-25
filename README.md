@@ -21,7 +21,7 @@ Orbit runs in your browser and does not require you to sign in to a MEGA account
 
 ### 📃 Playlist support
 - Import `.m3u` and `.m3u8` playlist files from your device.
-- Find and import playlists from a public MEGA folder. Up to **two imported MEGA playlists** can be active at a time.
+- Find and import playlists from a public MEGA folder.
 - Keep **All MEGA Songs** separate from imported playlists.
 - Match playlist entries to tracks in MEGA, or use **Match local audio** to select local files or folders for matching.
 - Review unresolved playlist entries.
